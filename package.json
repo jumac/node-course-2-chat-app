@@ -1,0 +1,17 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "node-chat-app",
+  "main": "server.js",
+  "author": "jqrubi",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "6.2.2"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
