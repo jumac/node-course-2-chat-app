@@ -6,3 +6,9 @@ npm i express@4.14.0 --save
 
 add to github:
 1. make a new github repo
+2. after creating repo, 
+	a. copy "…or push an existing repository from the command line"
+	b. git add . and git commit from the command line.
+3. execute current clipboard from 2.a to the command line
+4. "heroku create" from the command line.
+5. "git push heroku master" from the command line.
